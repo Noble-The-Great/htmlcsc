@@ -1,0 +1,35 @@
+html, body { background: black; margin:0; padding: 0; }
+
+
+
+#topbar {color: white; background: blue; display: flex; justify-content: space-between;  }
+
+#link {margin-top: 30px;}
+
+.links { margin-right: 10px; margin-left: 10px; text-decoration: none; font-size: 25px;}
+
+#fish {color: white; width: 60%; margin-left: 100px;}
+
+.hk { font-size: 70px; }
+
+.des {font-size: 25px;}
+
+#poke {display: flex; justify-content: space-between;}
+
+#poi { display: flex; justify-content: space-between;  background-color: blue; }
+
+#poih {color: white; width: 60%; text-align: center; font-size: 30px; margin-left: 50px;}
+
+#poim { display: flex; justify-content: flex-end; }
+
+.poip { font-size: 20px; }
+
+
+#pig { display: flex; justify-content: space-between; }
+
+#kai {color: white;text-align: center; width: 60%; margin-top: 20px; font-size: 20px;margin-right: 15px}
+
+
+
+
+
